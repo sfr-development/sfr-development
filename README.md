@@ -85,7 +85,7 @@ Rust where it matters. TypeScript where it moves fast.
 
 📍 **Frankfurt am Main, Germany**
 
-💼 Business inquiries & collaboration — reach out via [GitHub](https://github.com/sfr-development) · 🐛 Found a bug? Open an issue in the relevant repo
+💼 Business inquiries: **[info@sfr-development.de](mailto:info@sfr-development.de)** · 🐛 Found a bug? Open an issue in the relevant repo
 
 <sub>© 2026 SFR Development · Built with ❤️ and way too much Rust</sub>
 
