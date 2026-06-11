@@ -39,7 +39,7 @@ Rust where it matters. TypeScript where it moves fast.
 |---|---|
 | <img src="https://api.iconify.design/octicon/shield-16.svg?color=%238b949e" height="16" alt="" /> **Offensive Security Research** | Security tooling with AI in the loop — autonomous research engines, MITM proxying, stealth browser automation, native MCP integration. Built on **Rust + Tauri**. |
 | <img src="https://api.iconify.design/octicon/cpu-16.svg?color=%238b949e" height="16" alt="" /> **Reverse Engineering** | Binary analysis and vulnerability research with **IDA Pro** and **Ghidra** — Windows internals, native code, protocol analysis. |
-| <img src="https://api.iconify.design/octicon/law-16.svg?color=%238b949e" height="16" alt="" /> **SaaS & Legal Tech** | **LawSoft** — enterprise-grade practice management for law firms. Multi-tenant, GDPR-first cloud SaaS with a native desktop client. |
+| <img src="https://api.iconify.design/octicon/cloud-16.svg?color=%238b949e" height="16" alt="" /> **SaaS Development** | Enterprise-grade, multi-tenant cloud platforms — GDPR-first architecture, cloud SaaS with native desktop clients. |
 | <img src="https://api.iconify.design/octicon/lock-16.svg?color=%238b949e" height="16" alt="" /> **Code Protection** | VM-based Luau/Lua obfuscation — control-flow scrambling, string encoding and runtime protection. |
 
 ## <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%238b949e" height="20" alt="" /> Featured projects
@@ -92,7 +92,7 @@ Rust where it matters. TypeScript where it moves fast.
 
 <img src="https://api.iconify.design/octicon/location-16.svg?color=%238b949e" height="14" alt="" /> **Wetzlar, Hessen — Germany**
 
-<img src="https://api.iconify.design/octicon/mail-16.svg?color=%238b949e" height="14" alt="" /> Business inquiries: **[info@sfr-development.de](mailto:info@sfr-development.de)** · Found a bug? Open an issue in the relevant repo
+<img src="https://api.iconify.design/octicon/mail-16.svg?color=%238b949e" height="14" alt="" /> Contact: **[info@sfr-development.de](mailto:info@sfr-development.de)**
 
 <sub>© 2026 SFR Development · Cybersecurity & SaaS — built with way too much Rust</sub>
 
