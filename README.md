@@ -5,12 +5,14 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=F0F6FC&lines=AI-Powered+Security+Research;Enterprise+Legal-Tech+%E2%80%94+GDPR-first;VM-Based+Code+Protection;Engineered+in+Frankfurt+am+Main" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=24292F&lines=AI-Powered+Security+Research;Enterprise+Legal-Tech+%E2%80%94+GDPR-first;VM-Based+Code+Protection;Engineered+in+Frankfurt+am+Main" />
-  <img alt="AI-Powered Security Research · Enterprise Legal-Tech · VM-Based Code Protection · Engineered in Frankfurt am Main" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=24292F&lines=AI-Powered+Security+Research;Enterprise+Legal-Tech+%E2%80%94+GDPR-first;VM-Based+Code+Protection;Engineered+in+Frankfurt+am+Main" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=F0F6FC&lines=Cybersecurity+%26+SaaS+Development;Reverse+Engineering+%C2%B7+IDA+Pro+%C2%B7+Ghidra;AI-Powered+Security+Research;Engineered+in+Wetzlar%2C+Germany" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=24292F&lines=Cybersecurity+%26+SaaS+Development;Reverse+Engineering+%C2%B7+IDA+Pro+%C2%B7+Ghidra;AI-Powered+Security+Research;Engineered+in+Wetzlar%2C+Germany" />
+  <img alt="Cybersecurity & SaaS Development · Reverse Engineering · AI-Powered Security Research · Engineered in Wetzlar, Germany" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&center=true&vCenter=true&width=640&height=50&color=24292F&lines=Cybersecurity+%26+SaaS+Development;Reverse+Engineering+%C2%B7+IDA+Pro+%C2%B7+Ghidra;AI-Powered+Security+Research;Engineered+in+Wetzlar%2C+Germany" />
 </picture>
 
-**We build offensive security research engines, VM-based code protection,<br>and multi-tenant SaaS for the legal industry.**
+**A German cybersecurity & SaaS development company.**
+
+We build offensive security tooling, take binaries apart with IDA Pro and Ghidra,<br>and ship enterprise-grade, GDPR-first SaaS.
 
 Rust where it matters. TypeScript where it moves fast.
 
@@ -22,20 +24,25 @@ Rust where it matters. TypeScript where it moves fast.
 <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=0F0F0F" alt="Tauri" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F0F0F" alt="React" />
 <img src="https://img.shields.io/badge/AI%20%2F%20MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI / MCP" />
+<br>
+<img src="https://img.shields.io/badge/IDA%20Pro-2D5F8A?style=for-the-badge" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Ghidra-8C1D18?style=for-the-badge" alt="Ghidra" />
+<img src="https://img.shields.io/badge/Windows%20Internals-4D4D4D?style=for-the-badge" alt="Windows Internals" />
 
 </div>
 
 <br>
 
-## 🛠️ What we build
+## <img src="https://api.iconify.design/octicon/tools-16.svg?color=%238b949e" height="20" alt="" /> What we build
 
 | | |
 |---|---|
-| 🔐 **AI Security Research** | Offensive security tooling with AI in the loop — autonomous research engines, MITM proxying, stealth browser automation, native MCP integration. Built on **Rust + Tauri**. |
-| ⚖️ **Legal Tech** | **LawSoft** — enterprise-grade practice management for law firms. Multi-tenant, GDPR-first cloud SaaS with a native desktop client. |
-| 🛡️ **Code Protection** | VM-based Luau/Lua obfuscation — control-flow scrambling, string encoding and runtime protection. |
+| <img src="https://api.iconify.design/octicon/shield-16.svg?color=%238b949e" height="16" alt="" /> **Offensive Security Research** | Security tooling with AI in the loop — autonomous research engines, MITM proxying, stealth browser automation, native MCP integration. Built on **Rust + Tauri**. |
+| <img src="https://api.iconify.design/octicon/cpu-16.svg?color=%238b949e" height="16" alt="" /> **Reverse Engineering** | Binary analysis and vulnerability research with **IDA Pro** and **Ghidra** — Windows internals, native code, protocol analysis. |
+| <img src="https://api.iconify.design/octicon/law-16.svg?color=%238b949e" height="16" alt="" /> **SaaS & Legal Tech** | **LawSoft** — enterprise-grade practice management for law firms. Multi-tenant, GDPR-first cloud SaaS with a native desktop client. |
+| <img src="https://api.iconify.design/octicon/lock-16.svg?color=%238b949e" height="16" alt="" /> **Code Protection** | VM-based Luau/Lua obfuscation — control-flow scrambling, string encoding and runtime protection. |
 
-## 🚀 Featured projects
+## <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%238b949e" height="20" alt="" /> Featured projects
 
 <div align="center">
 
@@ -54,7 +61,7 @@ Rust where it matters. TypeScript where it moves fast.
 
 </div>
 
-## 📊 Stats
+## <img src="https://api.iconify.design/octicon/graph-16.svg?color=%238b949e" height="20" alt="" /> Stats
 
 <div align="center">
 
@@ -83,10 +90,10 @@ Rust where it matters. TypeScript where it moves fast.
 
 <div align="center">
 
-📍 **Frankfurt am Main, Germany**
+<img src="https://api.iconify.design/octicon/location-16.svg?color=%238b949e" height="14" alt="" /> **Wetzlar, Hessen — Germany**
 
-💼 Business inquiries: **[info@sfr-development.de](mailto:info@sfr-development.de)** · 🐛 Found a bug? Open an issue in the relevant repo
+<img src="https://api.iconify.design/octicon/mail-16.svg?color=%238b949e" height="14" alt="" /> Business inquiries: **[info@sfr-development.de](mailto:info@sfr-development.de)** · Found a bug? Open an issue in the relevant repo
 
-<sub>© 2026 SFR Development · Built with ❤️ and way too much Rust</sub>
+<sub>© 2026 SFR Development · Cybersecurity & SaaS — built with way too much Rust</sub>
 
 </div>
