@@ -44,42 +44,60 @@ Rust where it matters. TypeScript where it moves fast.
 
 ## <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%238b949e" height="20" alt="" /> Featured projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sfr-development&repo=WonderSuite-Ai-Bug-Bounty&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sfr-development&repo=WonderSuite-Ai-Bug-Bounty&hide_border=true&bg_color=00000000" alt="WonderSuite — AI-Powered Offensive Security Research Engine" />
-  </picture>
-</a>
-<a href="https://github.com/sfr-development/Lua-Obfuscator-Clyde-Protection">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sfr-development&repo=Lua-Obfuscator-Clyde-Protection&theme=github_dark&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sfr-development&repo=Lua-Obfuscator-Clyde-Protection&hide_border=true&bg_color=00000000" alt="Clyde Protection — VM-based Luau/Lua Obfuscator" />
-  </picture>
-</a>
+#### [WonderSuite](https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty)
 
-</div>
+**AI-Powered Offensive Security Research Engine**
+
+Desktop-native security testing platform with native MCP integration — 90 tools, MITM proxy, stealth browser and an autonomous AI agent. Built on **Rust + Tauri**.
+
+<a href="https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty/stargazers"><img src="https://img.shields.io/github/stars/sfr-development/WonderSuite-Ai-Bug-Bounty?style=flat-square&labelColor=0D1117&color=CE422B&logo=github&logoColor=white" alt="Stars" /></a>
+<img src="https://img.shields.io/github/forks/sfr-development/WonderSuite-Ai-Bug-Bounty?style=flat-square&labelColor=0D1117&color=30363D" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/sfr-development/WonderSuite-Ai-Bug-Bounty?style=flat-square&labelColor=0D1117&color=CE422B" alt="Main language" />
+<img src="https://img.shields.io/github/license/sfr-development/WonderSuite-Ai-Bug-Bounty?style=flat-square&labelColor=0D1117&color=30363D" alt="License" />
+<img src="https://img.shields.io/github/last-commit/sfr-development/WonderSuite-Ai-Bug-Bounty?style=flat-square&labelColor=0D1117&color=30363D" alt="Last commit" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [Clyde Protection](https://github.com/sfr-development/Lua-Obfuscator-Clyde-Protection)
+
+**VM-based Luau / Lua Obfuscator**
+
+Code protection for Roblox scripts — virtual-machine execution, control-flow scrambling, string encoding and runtime protection.
+
+<a href="https://github.com/sfr-development/Lua-Obfuscator-Clyde-Protection/stargazers"><img src="https://img.shields.io/github/stars/sfr-development/Lua-Obfuscator-Clyde-Protection?style=flat-square&labelColor=0D1117&color=3178C6&logo=github&logoColor=white" alt="Stars" /></a>
+<img src="https://img.shields.io/github/forks/sfr-development/Lua-Obfuscator-Clyde-Protection?style=flat-square&labelColor=0D1117&color=30363D" alt="Forks" />
+<img src="https://img.shields.io/github/languages/top/sfr-development/Lua-Obfuscator-Clyde-Protection?style=flat-square&labelColor=0D1117&color=3178C6" alt="Main language" />
+<img src="https://img.shields.io/github/license/sfr-development/Lua-Obfuscator-Clyde-Protection?style=flat-square&labelColor=0D1117&color=30363D" alt="License" />
+<img src="https://img.shields.io/github/last-commit/sfr-development/Lua-Obfuscator-Clyde-Protection?style=flat-square&labelColor=0D1117&color=30363D" alt="Last commit" />
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://api.iconify.design/octicon/graph-16.svg?color=%238b949e" height="20" alt="" /> Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sfr-development&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sfr-development&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfr-development&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfr-development&theme=github" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sfr-development&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfr-development&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top languages" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sfr-development&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sfr-development&theme=github" alt="Top languages" />
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake.svg" />
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sfr-development/sfr-development/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
