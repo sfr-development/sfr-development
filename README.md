@@ -112,6 +112,6 @@ Code protection for Roblox scripts — virtual-machine execution, control-flow s
 
 <img src="https://api.iconify.design/octicon/mail-16.svg?color=%238b949e" height="14" alt="" /> Contact: **[info@sfr-development.de](mailto:info@sfr-development.de)**
 
-<sub>© 2026 SFR Development · Cybersecurity & SaaS — built with way too much Rust</sub>
+<sub>© 2026 SFR Development · Cybersecurity & SaaS — built with way too much Rust!</sub>
 
 </div>
